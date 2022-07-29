@@ -40,3 +40,9 @@ npx eslint --init
 > JavaScript
 > Yes
 > yarn
+
+5. Add Prettier
+
+```
+yarnd add -D prettier
+```
