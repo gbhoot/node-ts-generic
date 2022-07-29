@@ -1,0 +1,9 @@
+{
+  "name": "node-ts-generic",
+  "version": "1.0.0",
+  "description": "Generic Node | TypeScript template project",
+  "main": "index.js",
+  "repository": "https://github.com/gbhoot/node-ts-generic.git",
+  "author": "Paul Bhoot <gsbhoot1020@gmail.com>",
+  "license": "MIT"
+}
