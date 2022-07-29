@@ -65,3 +65,10 @@ yarn add -D nodemon
 ```
 yarn add dotenv-safe @types/dotenv-safe
 ```
+
+9. Add Jest
+
+```
+yarn add -D jest ts-jest @types/jest
+npx ts-jest config:init
+```
