@@ -15,3 +15,10 @@ yarn init
 ```
 node -v > .npmrc
 ```
+
+3. Add TypeScript
+
+```
+yarn add -D typescript ts-node @types/node
+npx tsc --init
+```
