@@ -53,3 +53,15 @@ yarnd add -D prettier
 yarn add -D eslint-plugin-prettier eslint-config-prettier
 yarn add -D eslint-import-resolver-typescript tsconfig-paths
 ```
+
+7. Add Nodemon
+
+```
+yarn add -D nodemon
+```
+
+8. Add Dotenv
+
+```
+yarn add dotenv-safe @types/dotenv-safe
+```
