@@ -46,3 +46,10 @@ npx eslint --init
 ```
 yarnd add -D prettier
 ```
+
+6. ESLint + Prettier Config
+
+```
+yarn add -D eslint-plugin-prettier eslint-config-prettier
+yarn add -D eslint-import-resolver-typescript tsconfig-paths
+```
