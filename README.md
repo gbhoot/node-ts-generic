@@ -54,19 +54,23 @@ yarn add -D eslint-plugin-prettier eslint-config-prettier
 yarn add -D eslint-import-resolver-typescript tsconfig-paths
 ```
 
-7. Add Nodemon
+7. TypeScript Config
+
+   Added tsconfig.paths.json to hold all the different paths
+
+8. Add Nodemon
 
 ```
 yarn add -D nodemon
 ```
 
-8. Add Dotenv
+9. Add Dotenv
 
 ```
 yarn add dotenv-safe @types/dotenv-safe
 ```
 
-9. Add Jest
+10. Add Jest
 
 ```
 yarn add -D jest ts-jest @types/jest
